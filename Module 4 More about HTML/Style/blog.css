@@ -1,0 +1,14 @@
+nav {
+    text-align: center;
+}
+
+nav>ul>li{
+    display: inline;
+    margin-right: 20px;
+    font-size: 30px;
+
+}
+nav li > a{
+    text-decoration: none;
+    
+}
